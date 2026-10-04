@@ -1,13 +1,5 @@
 # MER-CLIP: AU-Guided Vision-Language Alignment for Micro-Expression Recognition
 
-This is the official implementation of:
-
-> **MER-CLIP: AU-Guided Vision-Language Alignment for Micro-Expression Recognition**
->
-> Shifeng Liu, Xinglong Mao, Sirui Zhao*, Peiming Li, Tong Xu, Enhong Chen*
->
-> *IEEE Transactions on Affective Computing, 2025*
-
 
 ## Introduction
 
